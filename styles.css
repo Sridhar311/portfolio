@@ -31,7 +31,7 @@ body {
     "Inter", "Segoe UI", sans-serif;
   background: radial-gradient(circle at top left, #1f2937 0, #020617 55%);
   color: var(--text);
-  padding-top: 72px; /* space for fixed navbar */
+  padding-top: 52px; /* space for fixed navbar */
 }
 
 section {
@@ -233,7 +233,7 @@ body.nav-open .nav-toggle span:nth-child(3) {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  padding: 24px 20px 32px;
+  padding: 8px 20px 32px;
 }
 
 .hero-inner {
